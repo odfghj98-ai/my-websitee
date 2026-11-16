@@ -1,0 +1,26 @@
+body{
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.container{
+	display: flex;
+	flex-direction:column ;
+	justify-content: space-between;
+	align-items: center;
+	width:200px ;
+	padding: 20px;
+	background-color: lightyellow;
+}
+.box{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	width:50px ;
+	height: 50px;
+	morgin: 10px;
+	font-size: 28px;
+	color:white ;
+	background-color: coral;
+}
